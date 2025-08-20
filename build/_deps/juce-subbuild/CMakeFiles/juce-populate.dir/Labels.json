@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-build.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-download.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-install.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-test.rule"
+		},
+		{
+			"file" : "/Users/manuelpark/Downloads/\u1103\u1162\u1112\u1161\u11a8\u1100\u116d \u1111\u1173\u1105\u1169\u1100\u1173\u1105\u1162\u1106\u1175\u11bc/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"juce-populate"
+		],
+		"name" : "juce-populate"
+	}
+}

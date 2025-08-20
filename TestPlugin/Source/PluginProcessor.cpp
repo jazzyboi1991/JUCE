@@ -31,7 +31,7 @@ TestPluginAudioProcessor::~TestPluginAudioProcessor()
 //==============================================================================
 const juce::String TestPluginAudioProcessor::getName() const
 {
-    return JucePlugin_Name;
+    return "JucePlugin_Name";
 }
 
 bool TestPluginAudioProcessor::acceptsMidi() const

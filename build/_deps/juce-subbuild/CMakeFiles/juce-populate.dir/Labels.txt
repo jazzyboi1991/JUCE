@@ -1,0 +1,14 @@
+# Target labels
+ juce-populate
+# Source files and their labels
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/CMakeFiles/juce-populate-complete.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-build.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-configure.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-download.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-install.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-mkdir.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-patch.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-test.rule
+/Users/manuelpark/Downloads/대학교 프로그래밍/JUCE/TestPlugin/build/_deps/juce-subbuild/juce-populate-prefix/src/juce-populate-stamp/juce-populate-update.rule
